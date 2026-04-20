@@ -14,3 +14,9 @@ theme = catppuccin-mocha
 background-opacity = 0.95
 window-padding-x = 8
 window-padding-y = 8
+
+keybind = super+shift+a=text:\x1b[sa
+keybind = super+shift+s=text:\x1b[ss
+keybind = super+shift+y=text:\x1b[sy
+keybind = super+shift+n=text:\x1b[sn
+keybind = super+shift+w=text:\x1b[sw
